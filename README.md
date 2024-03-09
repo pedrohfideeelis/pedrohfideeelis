@@ -9,7 +9,7 @@ I've been coding for 2 years, starting with Java, but I've truly found my passio
 * 🌍  I'm based in Goiânia-GO
 * 🖥️  See my portfolio at [Linktree](http://linktr.ee/pedrohfideeelis)
 * ✉️  You can contact me at [phzimnerdola@gmail.com](mailto:phzimnerdola@gmail.com)
-* 🧠  I'm learning Angular and Spring
+* 🧠  I'm learning Angular, React and Spring
 * 🤝  I'm open to collaborating on Web projects
 * ⚡  With big powers come big responsabilities
 
