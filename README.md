@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 4th period Systems Analysis and Development
 -------------------------------------------
 
-I've been coding for 2 years, starting with Java, but I've truly found my passion in front-end development. I also have experience in design and use tools like Figma to create visually appealing and functional interfaces. I'm constantly seeking to enhance my technical and artistic skills to craft impactful digital experiences.
+I've been coding for 2 years, starting with Java, but I've truly found my passion in front-end development. I also have experience in design and use tools like Figma, Photoshop and Illustrator to create visually appealing and functional interfaces. I'm constantly seeking to enhance my technical and artistic skills to craft impactful digital experiences.
 
 * 🌍  I'm based in Goiânia-GO
 * 🖥️  See my portfolio at [Linktree](http://linktr.ee/pedrohfideeelis)
 * ✉️  You can contact me at [phzimnerdola@gmail.com](mailto:phzimnerdola@gmail.com)
-* 🧠  I'm learning Angular, React and Spring
+* 🧠  I'm learning React, React Native and Java for WEB
 * 🤝  I'm open to collaborating on Web projects
 * ⚡  With big powers come big responsabilities
 
