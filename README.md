@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedro Henrique
 ======================================================================================================================================
 
-Graduated Systems Analysis and Development
+Graduated in Systems Analysis and Development
 -------------------------------------------
 
 I've been coding for 2 years, starting with Java, but I've truly found my passion in front-end development. I also have experience in design and use tools like Figma, Photoshop and Illustrator to create visually appealing and functional interfaces. I'm constantly seeking to enhance my technical and artistic skills to craft impactful digital experiences.
